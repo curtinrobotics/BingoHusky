@@ -1,0 +1,6 @@
+Step 1 : Learn ROS basics
+https://docs.ros.org/en/humble/Tutorials/Beginner-CLI-Tools/Introducing-Turtlesim/Introducing-Turtlesim.html
+Step 2 : Learn ROS -> Husky
+http://wiki.ros.org/Robots/Husky
+https://www.clearpathrobotics.com/assets/guides/kinetic/ros/Drive%20a%20Husky.html
+Step 3 : Learn GIT 
